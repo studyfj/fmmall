@@ -1,0 +1,15 @@
+com\itcast\fmmall\pojo\ProductParams.class
+com\itcast\fmmall\pojo\Orders.class
+com\itcast\fmmall\pojo\ProductSku.class
+com\itcast\fmmall\pojo\UserAddr.class
+com\itcast\fmmall\pojo\Product.class
+com\itcast\fmmall\pojo\IndexImg.class
+com\itcast\fmmall\pojo\CategoryVO.class
+com\itcast\fmmall\pojo\OrderItem.class
+com\itcast\fmmall\pojo\ProductComments.class
+com\itcast\fmmall\pojo\ShoppingCart.class
+com\itcast\fmmall\pojo\TUser.class
+com\itcast\fmmall\pojo\Category.class
+com\itcast\fmmall\pojo\ProductImg.class
+com\itcast\fmmall\pojo\Users.class
+com\itcast\fmmall\pojo\UserLoginHistory.class

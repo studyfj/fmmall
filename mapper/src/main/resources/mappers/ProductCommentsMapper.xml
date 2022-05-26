@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.itcast.fmmall.mapper.ProductCommentsMapper" >
+  <resultMap id="BaseResultMap" type="com.itcast.fmmall.pojo.ProductComments" >
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="comm_id" property="commId" jdbcType="VARCHAR" />
+    <result column="product_id" property="productId" jdbcType="VARCHAR" />
+    <result column="product_name" property="productName" jdbcType="VARCHAR" />
+    <result column="order_item_id" property="orderItemId" jdbcType="VARCHAR" />
+    <result column="user_id" property="userId" jdbcType="VARCHAR" />
+    <result column="is_anonymous" property="isAnonymous" jdbcType="INTEGER" />
+    <result column="comm_type" property="commType" jdbcType="INTEGER" />
+    <result column="comm_level" property="commLevel" jdbcType="INTEGER" />
+    <result column="comm_content" property="commContent" jdbcType="VARCHAR" />
+    <result column="comm_imgs" property="commImgs" jdbcType="VARCHAR" />
+    <result column="sepc_name" property="sepcName" jdbcType="TIMESTAMP" />
+    <result column="reply_status" property="replyStatus" jdbcType="INTEGER" />
+    <result column="reply_content" property="replyContent" jdbcType="VARCHAR" />
+    <result column="reply_time" property="replyTime" jdbcType="TIMESTAMP" />
+    <result column="is_show" property="isShow" jdbcType="INTEGER" />
+  </resultMap>
+</mapper>

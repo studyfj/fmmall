@@ -1,0 +1,15 @@
+com\itcast\fmmall\mapper\ProductSkuMapper.class
+com\itcast\fmmall\mapper\ProductImgMapper.class
+com\itcast\fmmall\mapper\OrderItemMapper.class
+com\itcast\fmmall\mapper\TUserMapper.class
+com\itcast\fmmall\mapper\CategoryMapper.class
+com\itcast\fmmall\mapper\UserAddrMapper.class
+com\itcast\fmmall\mapper\UserLoginHistoryMapper.class
+com\itcast\fmmall\mapper\ProductMapper.class
+com\itcast\fmmall\mapper\ProductCommentsMapper.class
+com\itcast\fmmall\mapper\UsersMapper.class
+com\itcast\fmmall\mapper\IndexImgMapper.class
+com\itcast\fmmall\mapper\ShoppingCartMapper.class
+com\itcast\fmmall\mapper\OrdersMapper.class
+com\itcast\fmmall\mapper\ProductParamsMapper.class
+com\itcast\fmmall\generator\GeneratorMapper.class

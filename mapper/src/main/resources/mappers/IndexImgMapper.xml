@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.itcast.fmmall.mapper.IndexImgMapper">
+    <resultMap id="BaseResultMap" type="com.itcast.fmmall.pojo.IndexImg">
+        <!--
+          WARNING - @mbg.generated
+        -->
+        <id column="img_id" property="imgId" jdbcType="VARCHAR"/>
+        <result column="img_url" property="imgUrl" jdbcType="VARCHAR"/>
+        <result column="img_bg_color" property="imgBgColor" jdbcType="VARCHAR"/>
+        <result column="prod_id" property="prodId" jdbcType="VARCHAR"/>
+        <result column="category_id" property="categoryId" jdbcType="VARCHAR"/>
+        <result column="index_type" property="indexType" jdbcType="INTEGER"/>
+        <result column="seq" property="seq" jdbcType="INTEGER"/>
+        <result column="status" property="status" jdbcType="INTEGER"/>
+        <result column="create_time" property="createTime" jdbcType="TIMESTAMP"/>
+        <result column="update_time" property="updateTime" jdbcType="TIMESTAMP"/>
+    </resultMap>
+
+
+    <select id="listIndexImg" resultMap="BaseResultMap">
+        select img_id,
+               img_url,
+               img_bg_color,
+               prod_id,
+               category_id,
+               index_type,
+               seq,
+               status,
+               create_time,
+               update_time
+        from fmmall.index_img
+        where status = 1
+        order by seq
+    </select>
+</mapper>
