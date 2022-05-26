@@ -4,11 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ace3a3e-7ff1-4612-ba35-3348358f2a4c" name="Changes" comment="" />
+    <list default="true" id="8ace3a3e-7ff1-4612-ba35-3348358f2a4c" name="Changes" comment="first function commit">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/itcast/config/InterceptorConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/itcast/fmmall/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/itcast/fmmall/controller/ShopCartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/itcast/interceptor/CheckTokenInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beans/src/main/java/com/itcast/fmmall/pojo/CategoryVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/itcast/constant/SystemConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/itcast/fmmall/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/itcast/fmmall/service/IndexImgService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/itcast/fmmall/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/itcast/fmmall/service/impl/IndexImgServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/test/java/com/itcast/ApiApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/test/java/com/itcast/ApiApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/com/itcast/fmmall/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/com/itcast/fmmall/service/impl/UserServiceImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="mybatis-config" />
+        <option value="mapper" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -23,16 +67,27 @@
     <option name="jreName" value="11" />
   </component>
   <component name="ProjectId" id="293PIHdCHGd5ARDuZX6FJEp9tTd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../dev_tools/gradle/gradle_repository" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/src/main/java/com/itcast" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -42,7 +97,83 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.itcast.fmmall.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javacode\workspace02\rearend\ffmall\fmmall\common\src\main\java\com\itcast" />
+      <recent name="D:\javacode\workspace02\rearend\ffmall\fmmall\mapper\src\main\resources\generator" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.itcast.fmmall" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.itcast.fmmall.mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itcast" />
+      <recent name="mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ApiApplication">
+    <configuration name="ApiApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itcast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itcast" />
+      <option name="MAIN_CLASS_NAME" value="com.itcast.ApiApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itcast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itcast" />
+      <option name="MAIN_CLASS_NAME" value="com.itcast.ApiApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itcast.fmmall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itcast.fmmall" />
+      <option name="MAIN_CLASS_NAME" value="com.itcast.fmmall.UserMapperTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="api" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.itcast.ApiApplication" />
@@ -50,6 +181,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.UserMapperTest.testFindAll" />
+      <item itemvalue="JUnit.ApiApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.ApiApplicationTests" />
+      <item itemvalue="Spring Boot.ApiApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApiApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.ApiApplicationTests" />
+        <item itemvalue="JUnit.UserMapperTest.testFindAll" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,11 +203,59 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652338714925</updated>
-      <workItem from="1652338716098" duration="1262000" />
+      <workItem from="1652338716098" duration="9272000" />
+      <workItem from="1652421583232" duration="12291000" />
+      <workItem from="1652493450665" duration="14985000" />
+      <workItem from="1652693283044" duration="491000" />
+      <workItem from="1652705454875" duration="1684000" />
+      <workItem from="1652752165851" duration="485000" />
+      <workItem from="1652786709958" duration="1883000" />
+      <workItem from="1652944781692" duration="2657000" />
+      <workItem from="1652949300072" duration="3063000" />
+      <workItem from="1653026725641" duration="5291000" />
+      <workItem from="1653035519592" duration="2668000" />
+      <workItem from="1653107732247" duration="15508000" />
+      <workItem from="1653355658518" duration="12717000" />
+      <workItem from="1653528625182" duration="321000" />
     </task>
+    <task id="LOCAL-00001" summary="first function commit">
+      <created>1652752627389</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652752627389</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first function commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first function commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api/src/main/java/com/itcast/interceptor/CheckTokenInterceptor.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
